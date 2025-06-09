@@ -70,7 +70,7 @@ chmod +x install-linux.sh
 
 Masovskiy International Organization (MIO) is a transnational structure focused on digital identity, certification, and secure diplomatic infrastructure.
 
-Masovskiy International Organization (MIO — RU) — это независимая международная структура, действующая в интересах обеспечения цифровой идентичности, сертификации и безопасной дипломатической инфраструктуры.
+Masovskiy International Organization (MIO) — это независимая международная структура, действующая в интересах обеспечения цифровой идентичности, сертификации и безопасной дипломатической инфраструктуры.
 
 ---
 
