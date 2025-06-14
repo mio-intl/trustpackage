@@ -1,5 +1,5 @@
 # 🏛️ MIO Structure (Masovskiy International Organization)
-**Date:** 2025.06.14  
+**Date:** 14.06.2025  
 **Type:** Operational Hierarchical Model  
 **Purpose:** Management of an international multi-tier agent system, certification, digital security, and strategic initiatives
 
