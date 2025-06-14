@@ -2,6 +2,7 @@
 
 **Masovskiy International Organization (MIO)**  
 Root CA Installation Package · Пакет установки корневого центра сертификации MIO
+Information About MIO · Информация о MIO
 
 ---
 
@@ -9,8 +10,8 @@ Root CA Installation Package · Пакет установки корневого
 
 - `install` — Installers / установщики
 - `README.md` — This guide / Инструкция  
-- `ru/` — Русская версия устава и удостоверений  
-- `en/` — English version of the charter and agent IDs
+- `ru/` — Русская версия информации  
+- `en/` — English version of the information 
 
 ---
 
