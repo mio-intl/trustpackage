@@ -1,118 +1,104 @@
-# 🛡 Charter of Masovskiy International Organization (MIO)
+# 🛡 CHARTER  
+**Masovskiy International Organization (MIO)**  
 
-## 🧭 Preamble
-Masovskiy International Organization (MIO) is a sovereign, independent, non-governmental international body dedicated to fostering diplomacy, secure digital infrastructure, legal transparency, inter-state cooperation, and future-oriented governance in global digital affairs.
+_Adopted: 2025 • Last revision: 2025-07-28_
 
-MIO operates globally via agents and departments that promote technological trust, human coordination, and legal guarantees across digital and diplomatic domains.
+## 1. GENERAL PROVISIONS
 
----
+1.1. Masovskiy International Organization (hereinafter — the Organization or MIO) is an international, independent, non-governmental and non-profit entity operating on the principles of voluntary participation, self-governance, equality, transparency, and non-profitability.
 
-## 📌 Article I: Legal Status
+1.2. The Organization is not incorporated in the jurisdiction of any state and operates in a digital and transnational space, adhering to international law, the Charter of the United Nations, and universal human rights principles.
 
-**1.1** MIO is a de facto international organization founded by civil initiative, maintaining neutrality, digital sovereignty, and operational independence.  
-**1.2** It is not controlled by any specific nation, corporation, or intelligence body.  
-**1.3** MIO operates via publicly available cryptographic infrastructure, legally verifiable digital identities, and recognized agent certification.
+1.3. The primary mission of MIO is to promote international cooperation, digital security, trust infrastructure, and ethical governance of digital credentials and certificates.
 
----
+## 2. PURPOSES AND AREAS OF ACTIVITY
 
-## 🛠 Article II: Core Activities
+2.1. The Organization’s main areas of activity include:
+- Representing the interests of institutions and organizations on the international stage;
+- Providing legal support for international digital initiatives;
+- Developing and implementing infrastructure for digital identification and certification;
+- Ensuring information and cybersecurity;
+- Supporting and promoting open cryptographic standards;
+- Developing strategies in the fields of digital rights and artificial intelligence.
 
-- 🌐 Representation of members and partners in international and intergovernmental settings;
-- 📜 Drafting, signing, and archiving of international declarations and memoranda;
-- ⚖️ Providing legal advice and compliance verification across jurisdictions;
-- 🔐 Issuing and maintaining digital certificates (X.509) and ID systems;
-- 🛡️ Promoting infrastructure, cryptographic, and operational cybersecurity;
-- 🧠 Research and deployment of secure artificial intelligence;
-- 🤝 Ensuring transparency and authenticity in digital agreements and data sharing.
+## 3. MEMBERSHIP
 
----
+3.1. Individuals and legal entities who share the Organization’s goals and principles may become members.
 
-## 🏛 Article III: Organizational Structure
+3.2. Membership is voluntary. Admission is granted upon submission of an application reviewed by the Executive Office.
 
-MIO is structured into 20 departments. Each has a defined and independent function to ensure international operations, digital trust, and organizational transparency.
+3.3. Members have the right to:
+- Participate in the Organization’s initiatives and programs;
+- Obtain credentials and certificates;
+- Be elected to organizational bodies.
 
-| №  | Department Name                          | Function / Responsibility                          |
-|----|------------------------------------------|----------------------------------------------------|
-| 1  | Strategic Operations Department          | Strategic planning and field-level coordination    |
-| 2  | International Affairs Division           | Diplomacy and international agreements             |
-| 3  | Intelligence & Analytics Unit            | Intelligence, monitoring, and analytics            |
-| 4  | Legal Compliance Department              | Law, international norms, and contract review      |
-| 5  | Finance & Risk Management                | Financial audits, budgeting, risk control          |
-| 6  | Human Resources & Recruitment            | Personnel training, recruitment, and vetting       |
-| 7  | Technical Operations Section             | Infrastructure, hardware, software operations      |
-| 8  | Cybersecurity Division                   | Threat mitigation, encryption, red/blue teams      |
-| 9  | Field Coordination Unit                  | On-ground operatives, logistics, dispatching       |
-| 10 | Logistics and Asset Management           | Inventory, digital asset management, delivery      |
-| 11 | Public Communication Office              | Media, press, digital presence                     |
-| 12 | Internal Oversight and Audit             | Internal audit, anti-corruption compliance         |
-| 13 | External Relations & Protocol            | Event management, state protocol, formal liaison   |
-| 14 | Research & Innovation Department         | AI, R&D, experimental programs                     |
-| 15 | Emergency Response Command               | Response teams for digital and physical threats    |
-| 16 | Legal Documents & Archiving              | Legal archives, verification, notarization         |
-| 17 | Digital Signature & Certification Dept.  | PKI, identity issuance, certification services     |
-| 18 | Infrastructure Security Division         | Critical assets, data centers, digital sovereignty |
-| 19 | Artificial Intelligence Division         | Ethics & use of AI in governance & security        |
-| 20 | Executive Office                         | Supreme command, diplomatic representation         |
+3.4. Members are obliged to:
+- Comply with the provisions of this Charter;
+- Respect established security and identification norms;
+- Refrain from actions that damage the Organization’s reputation.
 
----
+3.5. Membership may be terminated:
+- Upon voluntary withdrawal;
+- By decision of the Central Council in case of a serious violation of the Charter.
 
-## 🔏 Article IV: Digital Certification & Identity
+## 4. GOVERNANCE STRUCTURE
 
-Each official agent ID consists of:
+4.1. The Organization is structured according to a hierarchical multi-level model, outlined in **Appendix No.1**.
 
-- X.509 certificate (agent-level or functional)
-- PKCS#12 encrypted container (.p12)
-- ASCII-style printable ID (signed)
-- Graphical stamp (PNG or embedded QR)
+4.2. The highest governing body is the **Central Council / Executive Office**, which:
+- Appoints department heads;
+- Approves internal regulations, standards, and certification rules;
+- Monitors compliance with the Charter's objectives.
 
-These are cryptographically signed by the MIO Root Certification Authority (CA) and follow international PKI standards.
+4.3. MIO departments manage specific areas, coordinate the work of agents, and implement the strategic direction.
 
----
+4.4. All actions by organizational bodies and members are subject to review by the **Internal Oversight and Audit Department** (Department 12).
 
-## 🔐 Article V: Public Key Infrastructure (PKI)
+## 5. DOCUMENTS AND SIGNATURES
 
-- **Root CA:** `MIO Root Certification Authority`
-- **Certificate Standards:** X.509 v3, PKCS#12, SHA-256 RSA
-- **Verification:** Scripts and public key files are provided
-- **Trust Chain:** Installed via macOS/Linux/Windows trust scripts
-- **Fingerprinting:** Certificates include SHA-256 fingerprints for validation
+5.1. The Organization uses an open trust infrastructure (PKI):
+- X.509 certificates;
+- PKCS#12 containers (.p12);
+- ASCII-based credentials;
+- Graphical stamps with cryptographic verification.
 
----
+5.2. All signatures and credentials are verified using open-source tools (TrustPackage).
 
-## 📜 Article VI: Legal Use & Restrictions
+5.3. The use of MIO’s root certificate is permitted only for purposes directly related to the Organization’s activities.
 
-- Certificates may **only** be used for verifying MIO-issued identities, stamps, or signed documents.
-- Unauthorized usage, impersonation, or misuse of the Root CA or agent keys will result in revocation and public disclosure.
+## 6. FINANCIAL PROVISIONS
 
----
+6.1. The Organization does not generate profit and does not distribute income among its members.
 
-## 🔎 Article VII: Transparency & Public Access
+6.2. All resources, whether digital or material, are used solely for the achievement of the goals specified in this Charter.
 
-- MIO maintains a **public GitHub repository** with:
-  - Trust installers (`.pkg`, `.sh`, `.reg`)
-  - Certificate authority structure and fingerprint records
-  - Agent ID verification scripts (`verify.py`)
-  - Organizational charter in multiple languages
-- ASCII IDs are published and digitally signed by the CEO.
+6.3. The Organization may accept non-financial assistance (e.g., hosting, code, services) provided it remains free from external influence.
 
----
+## 7. AMENDMENTS TO THE CHARTER
 
-## 🤝 Article VIII: Contact
+7.1. Amendments may be proposed by the Central Council or by initiative of no fewer than three departments.
 
-- **CEO Telegram:** [@masovskiy_tg](https://t.me/masovskiy_tg)  
-- **Email:** [masovskiy077@mail.ru](mailto:masovskiy077@mail.ru)  
-- **Website (temporary):** [mio.ftp.sh](http://mio.ftp.sh)  
-- **GitHub (recommended):** [github.com/masovskiy](https://github.com/masovskiy)
+7.2. A decision is made by a qualified majority vote (at least 2/3) of Central Council members.
+
+7.3. The current version of the Charter is published in open access on the Organization’s official platform.
+
+## 8. TERMINATION OF OPERATIONS
+
+8.1. The Organization may be dissolved by unanimous decision of all members of the Central Council.
+
+8.2. Upon termination:
+- All digital credentials and signatures shall be revoked;
+- The trust infrastructure (certificates) shall be officially deactivated;
+- Archival documents shall be preserved in open formats.
+
+## 9. FINAL PROVISIONS
+
+9.1. This Charter enters into force upon approval by the Central Council.
+
+9.2. Issues not addressed in this Charter shall be resolved by decisions of the Central Council and applicable international norms.
 
 ---
 
-## 🧾 Final Statement
-
-Masovskiy International Organization (MIO) does not aim to replace governments, but to **strengthen multilateral cooperation**, ensure **digital legitimacy**, and promote **trust-based certification** across jurisdictions in the digital age.
-
-We believe that:
-
-> “**Trust is the infrastructure of the 21st century.**”  
-> — *Masovskiy International Organization*
-
-MIO provides verifiable identities, open-source cryptographic standards, and transparent structures for a new global digital trust framework.
+## 📎 Appendix No.1  
+**Structure and Hierarchical Governance Model of Masovskiy International Organization (MIO)**  
+(see separate file `mio_structure.md`)
